@@ -1,4 +1,4 @@
 # Bot-Komen
 
 Cara Menggunakan Nya Cek YouTube
-youtube.com/RozhakID
+https://www.youtube.com/RozhakID
